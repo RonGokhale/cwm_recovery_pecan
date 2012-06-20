@@ -1,0 +1,15 @@
+dual boot recovery for lg optimus me p350. 
+
+how to compile 
+
+download cm7 source. download from my cm7 manifest or pax0r 
+
+now
+
+- . build/envsetup.sh
+
+- select pecan 
+
+- make -j4 recoveryimage
+
+now you will get recovery.img witch is dual boot recovery 
